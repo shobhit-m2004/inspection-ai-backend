@@ -1,0 +1,4 @@
+INFO User logged in
+ERROR Database connection failed
+WARNING Disk usage high
+ERROR Timeout occurred
